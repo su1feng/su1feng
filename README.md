@@ -21,8 +21,6 @@
 
 ### 🤺 About Me
 
-<img align="right" width="88" src="https://avatars.githubusercontent.com/u/45090349?v=4" />
-
 <p>&emsp;&emsp;嗨，我是su1feng.</p>
 <p>&emsp;&emsp;</p>
 <p>&emsp;&emsp;  </a></p>
