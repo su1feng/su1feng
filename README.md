@@ -17,11 +17,6 @@
 ### 🤺 About Me
 
 <p>&emsp;&emsp;嗨，我是su1feng.</p>
-<p>&emsp;&emsp;</p>
-<p>&emsp;&emsp;  </a></p>
-<p>&emsp;&emsp;</p>
-<p>&emsp;&emsp;<strong>We're making the world a better place. Through constructing elegant hierarchies for maximum code reuse and extensibility.</strong></p>
-
 
   <!-- for beauty 留个空行好看点 -->
   <div>&nbsp;</div>
