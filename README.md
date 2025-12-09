@@ -36,10 +36,8 @@
 <tr><td>
 
 
-
 ![](https://stats.justsong.cn/api/leetcode?username=su1feng&cn=true)
-![visitors](https://visitor-badge.glitch.me/badge?page_id=su1feng&left_color=green&right_color=red)
-[![Su1feng's GitHub stats](https://github-readme-stats.vercel.app/api?username=su1feng)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!--
 **su1feng/su1feng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
