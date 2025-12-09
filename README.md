@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <div align="center">
 
   <!-- knock code pictures 敲代码的图片 -->
@@ -11,9 +9,6 @@
 
   <!-- for beauty 留个空行好看点 -->
   <div>&nbsp;</div>
-
-
-#  🙋 Hello
 
 <table>
   
