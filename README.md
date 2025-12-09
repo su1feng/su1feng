@@ -39,7 +39,7 @@
 
 
 
-![](https://stats.justsong.cn/api/leetcode?username=随风&cn=true)
+![](https://stats.justsong.cn/api/leetcode?username=su1feng&cn=true)
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=su1feng&left_color=green&right_color=red)
 [![Su1feng's GitHub stats](https://github-readme-stats.vercel.app/api?username=su1feng)](https://github.com/anuraghazra/github-readme-stats)
 
