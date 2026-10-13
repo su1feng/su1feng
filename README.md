@@ -21,9 +21,9 @@
 
 ## Projects
 
-- **Maiwang Business Travel Assistant**: enterprise travel assistant built on AgentScope, with multi-agent orchestration and human-in-the-loop interaction
-- **Home Cleaning Robot Knowledge Engine**: multi-source RAG question-answering system with hybrid retrieval and semantic reranking
-- **Rover X10 Pool Cleaning Robot**: C++17/ROS/behavior-tree system with 28 behavior trees, 44 fault-recovery cases, and 7 mass-produced models
+- **Maiwang Business Travel Assistant**: a multi-agent travel assistant built with AgentScope, for employees to handle travel requests and bookings.
+- **Home Cleaning Robot Knowledge Engine**: a RAG Q&A system built with Elasticsearch, MySQL, Neo4j and BGE-Reranker, for home cleaning robot customer support.
+- **Rover X10 Pool Cleaning Robot**: a pool-cleaning robot control system built with C++17, ROS and behavior trees.
 
 ## GitHub Stats
 
