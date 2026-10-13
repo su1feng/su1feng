@@ -21,6 +21,6 @@
 
 ## Projects
 
-- **Maiwang Business Travel Assistant**: a multi-agent travel assistant built with AgentScope, for employees to handle travel requests and bookings.
-- **Home Cleaning Robot Knowledge Engine**: a RAG Q&A system built with Elasticsearch, MySQL, Neo4j and BGE-Reranker, for home cleaning robot customer support.
+- **Business Travel Assistant**: a multi-agent travel assistant built with AgentScope, for employees to handle travel requests and bookings.
+- **Cleaning Robot Knowledge Engine**: a RAG Q&A system built with Elasticsearch, MySQL, Neo4j and BGE-Reranker, for home cleaning robot customer support.
 - **Rover X10 Pool Cleaning Robot**: a pool-cleaning robot control system built with C++17, ROS and behavior trees.
