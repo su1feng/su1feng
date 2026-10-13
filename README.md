@@ -8,9 +8,8 @@
 
 ## About Me
 
-- Agent Development Engineer @ Dreame Technology (2025.11 – 2026.06)
-- Backend Development Engineer @ Beijing Yexia Technology Co., Ltd. (2024.06 – 2025.10)
-- Focus: agent runtime, context engineering, memory systems, tool design, observability and evals
+- Agent Development Engineer @ Dreame Technology
+- Backend Development Engineer @ Beijing Yexia Technology Co., Ltd.
 
 ## Tech Stack
 
