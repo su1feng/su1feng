@@ -1,15 +1,15 @@
 <h1 align="center">Hi, I'm su1feng</h1>
 
 <p align="center">
-  Agent engineer & backend developer
+  Harness & Agent engineer & backend engineer
 </p>
 
 ---
 
 ## About Me
 
-- Agent Development Engineer @ Dreame Technology
-- Backend Development Engineer @ Beijing Yexia Technology Co., Ltd.
+- Agent Development Engineer, Dreame Technology
+- Backend Development Engineer, Beijing Yexia Technology Co., Ltd.
 
 ## Tech Stack
 
@@ -23,6 +23,7 @@
 
 - **Maiwang Business Travel Assistant**: enterprise travel assistant built on AgentScope, with multi-agent orchestration and human-in-the-loop interaction
 - **Home Cleaning Robot Knowledge Engine**: multi-source RAG question-answering system with hybrid retrieval and semantic reranking
+- **Rover X10 Pool Cleaning Robot**: C++17/ROS/behavior-tree system with 28 behavior trees, 44 fault-recovery cases, and 7 mass-produced models
 
 ## GitHub Stats
 
