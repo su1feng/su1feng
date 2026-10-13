@@ -24,10 +24,10 @@ $ cat about.txt
   <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" />
 </p>
 
-### // experience
+### // aboutme
 
-- 追觅科技
-- 北京叶夏科技有限公司
+- Agent 开发工程师 @ 追觅科技
+- 后端开发工程师 @ 北京叶夏科技有限公司
 
 ### // github_stats
 
