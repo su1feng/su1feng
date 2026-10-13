@@ -1,45 +1,43 @@
 <div align="center">
 
-  <!-- knock code pictures 敲代码的图片 -->
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif" />
-    <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/developer.svg" height="225px" />
-    <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif" />
-  </picture>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=800&color=00FF9C&center=true&vCenter=true&width=600&lines=su1feng+%40+~;%24+whoami;Building+things+with+code;Always+learning+something+new" alt="typing" />
 
-  <!-- for beauty 留个空行好看点 -->
-  <div>&nbsp;</div>
+<img src="https://komarev.com/ghpvc/?username=su1feng&style=flat-square&color=00FF9C&label=PROFILE+VIEWS" alt="views" />
 
-<table>
-  
-<tr><td>
+</div>
 
-### 🤺 About Me
+```bash
+$ whoami
+su1feng
 
-<p>&emsp;&emsp;嗨，我是su1feng.</p>
+$ cat about.txt
+> 正在学习并构建工程项目
+> 关注：后端 · 工程化 · 自动化
+> 当前：<在这里填你正在做的事>
+```
 
-  <!-- for beauty 留个空行好看点 -->
-  <div>&nbsp;</div>
+### // tech_stack
 
-</td></tr>
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+</p>
 
-<tr><td>
+### // github_stats
 
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=su1feng&show_icons=true&theme=tokyonight&hide_border=true" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=su1feng&layout=compact&theme=tokyonight&hide_border=true" height="170" />
+</p>
 
-![](https://stats.justsong.cn/api/leetcode?username=su1feng&cn=true)
+### // leetcode
 
+![LeetCode](https://stats.justsong.cn/api/leetcode?username=su1feng&cn=true)
 
-<!--
-**su1feng/su1feng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### // contact
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- GitHub: [@su1feng](https://github.com/su1feng)
+- 邮箱: `<你的邮箱>`
