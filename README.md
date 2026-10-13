@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm su1feng</h1>
 
 <p align="center">
-  Harness & Agent engineer & backend engineer
+  AI Agent Engineer & Agent Harness & Backend Engineer
 </p>
 
 ---
