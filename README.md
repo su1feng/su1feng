@@ -1,35 +1,31 @@
-<div align="center">
+<h1 align="center">Hi, I'm su1feng</h1>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=800&color=00FF9C&center=true&vCenter=true&width=600&lines=su1feng+%40+~;%24+whoami;Building+things+with+code;Always+learning+something+new" alt="typing" />
-
-<img src="https://komarev.com/ghpvc/?username=su1feng&style=flat-square&color=00FF9C&label=PROFILE+VIEWS" alt="views" />
-
-</div>
-
-```bash
-$ whoami
-su1feng
-
-$ cat about.txt
-> 正在学习并构建工程项目
-> 关注：后端 · 工程化 · 自动化
-> 当前：<在这里填你正在做的事>
-```
-
-### // tech_stack
-
-<p>
-  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" />
+<p align="center">
+  Agent engineer & backend developer
 </p>
 
-### // aboutme
+---
 
-- Agent 开发工程师 @ 追觅科技
-- 后端开发工程师 @ 北京叶夏科技有限公司
+## About Me
 
-### // github_stats
+- Agent Development Engineer @ Dreame Technology (2025.11 – 2026.06)
+- Backend Development Engineer @ Beijing Yexia Technology Co., Ltd. (2024.06 – 2025.10)
+- Focus: agent runtime, context engineering, memory systems, tool design, observability and evals
+
+## Tech Stack
+
+<p>
+  <img src="https://img.shields.io/badge/C++-2b2b2b?style=flat-square&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-2b2b2b?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Go-2b2b2b?style=flat-square&logo=go&logoColor=white" />
+</p>
+
+## Projects
+
+- **Maiwang Business Travel Assistant**: enterprise travel assistant built on AgentScope, with multi-agent orchestration and human-in-the-loop interaction
+- **Home Cleaning Robot Knowledge Engine**: multi-source RAG question-answering system with hybrid retrieval and semantic reranking
+
+## GitHub Stats
 
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username=su1feng&show_icons=true&theme=tokyonight&hide_border=true" height="170" />
